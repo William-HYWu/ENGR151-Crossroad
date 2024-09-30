@@ -2,7 +2,7 @@
 
 ## Description
 
-Project1 course outcome for ENGR151 in UM-SJTU JI. Incoming students of JI should not refer to this repo when completing the project. Any misconduct detected will be considered as violation to honor code, and will receive heavy punishment.
+Project1 course outcome for ENGR151 in UM-SJTU JI. Incoming students of JI should not refer to this repo when completing the project. Any misconduct detected will be considered as violation to honor code, and will receive heavy punishment. The owner of this repo will not be held responsible for other people's mistake
 ## Contributor
 Name: Haoyang Wu
 Email: william-wu@sjtu.edu.cn
